@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Exam Surveillance System
 
 Full-stack implementation of the "Online Exam Surveillance System for College Students Using
@@ -103,3 +104,7 @@ frontend (`ProtectedRoute`).
   **Results**.
 - **Admin**: Dashboard &rarr; Live Monitoring &rarr; Reports & Analytics (charts) &rarr;
   **Results & Reports**.
+=======
+# Exam-surveillance-system
+Full-stack implementation of the "Online Exam Surveillance System for College Students Using Face Recognition and AI-Based Proctoring" synopsis (Dept. of CSE, RYMEC)
+>>>>>>> 7757b24e879280701e7cf4051857261e15e0b53b
